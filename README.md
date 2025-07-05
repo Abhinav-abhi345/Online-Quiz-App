@@ -1,1 +1,2 @@
 # Online-Quiz-App
+This Java console-based quiz application defines a Question class that holds a question, its options, and the correct answer index. In the main class QuizApp, a list of Question objects is created. Each question is displayed with its options, the user inputs their answer, and the program checks whether it's correct using the isCorrect method. A score counter keeps track of correct answers. At the end, the user's final score is printed.
